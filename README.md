@@ -1,5 +1,6 @@
 This is the first task of my internship, the objective of this task is :
 Learn how to load, inspect, and visualize a dataset to understand data trends and distributions.
+Dataset used : Iris 
 
 In this task, I have successfully loaded the "iris" dataset from seaborn library, I have explored the dataset i.e; features, entries, unique columns etc.
 Have successfully printed the statistic of the dataset, using .info() and .describe() methods. And then Finally, I have visualied the dataset using matplotlib, 
